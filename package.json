@@ -20,7 +20,7 @@
         "async": "1.2.1",
         "path": "*",
         "env": "*",
-        "react": "^0.13.3"
+        "react": "^16.13.1"
     },
     "devDependencies": {
         "babel-eslint": "^3.1.24",
